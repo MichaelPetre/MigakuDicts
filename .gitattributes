@@ -1,0 +1,4 @@
+/English-English/GCIDE.csv filter=lfs diff=lfs merge=lfs -text
+/English-English/GCIDE.json filter=lfs diff=lfs merge=lfs -text
+/English-English/Merriam-WebstersCollegiate.csv filter=lfs diff=lfs merge=lfs -text
+/English-English/Merriam-WebstersCollegiate.json filter=lfs diff=lfs merge=lfs -text
